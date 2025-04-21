@@ -1,0 +1,74 @@
+/* Here's the .css. Colours can be changed to whatever you want. It's a little messy but it should be simple enough. */
+
+/* Default text here */
+body {
+  background-color: rgb(55, 63, 71);
+  color: rgb(0, 0, 0);
+  font-family: Consolas;
+  text-align: center;
+}
+
+
+/* Box :3 */
+.box {
+display: table;
+margin: 0px auto 0px auto;
+padding: 5px;font-size:16px;background-color:white;
+opacity: 100%;
+}
+
+/* THE BAR */
+
+.bar {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;font-size:16px;background-color:white;
+  opacity: 100%;
+}
+
+.outline {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 2px;font-size:16px;background-color:#ff0000;
+}
+
+/* Thinner Box :3 */
+
+
+.box {
+  word-wrap: break-word;
+  width: 750px;
+}
+
+/*Loooooong box :3 */
+
+.bar {
+  word-wrap: break-word;
+  width: 1920px;
+}
+
+/* LEFTTT */
+
+.left {
+  float: left;
+}
+
+/* RIGHTTTT */
+
+.right{
+  float: right;
+}
+
+/* LEFTTT */
+
+.left2 {
+  float: left;
+  margin-top: 450px;
+}
+
+/* RIGHTTTT */
+
+.right2 {
+  float: right;
+  margin-top: 450px;
+}
